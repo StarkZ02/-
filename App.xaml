@@ -1,0 +1,11 @@
+<Application x:Class="MemoryMonitorBall.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="PanelBackgroundBrush" Color="#F7F9FC" />
+        <SolidColorBrush x:Key="PanelBorderBrush" Color="#D7DEE8" />
+        <SolidColorBrush x:Key="PrimaryTextBrush" Color="#17202A" />
+        <SolidColorBrush x:Key="SecondaryTextBrush" Color="#667085" />
+    </Application.Resources>
+</Application>
